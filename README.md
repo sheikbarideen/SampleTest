@@ -1,3 +1,3 @@
 # SampleTest..tests
-Connection-specific DNS Suffix  . : mis.lmig.comIPv4 Address. . . . . . . . . . . : 10.172.42.163Subnet Mask . . . . . . . . . . . : 255.255.252.0Default Gateway . . . . . . . . . : 10.172.40.1
-wdujcuqwdjqcwjqwcw
+The Developer to write the code here and check in for Jenkins Automatic Build starts funtionality
+The Code has been updated
